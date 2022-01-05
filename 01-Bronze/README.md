@@ -29,5 +29,6 @@
 |25|10171|고양이|5|[링크](https://www.acmicpc.net/problem/10171)|[링크](https://github.com/mnpine12/Baekjoon/blob/main/01-Bronze/5/10171.java)|
 |26|10172|개|5|[링크](https://www.acmicpc.net/problem/10172)|[링크](https://github.com/mnpine12/Baekjoon/blob/main/01-Bronze/5/10172.java)|
 |27|10430|나머지|5|[링크](https://www.acmicpc.net/problem/10430)|[링크](https://github.com/mnpine12/Baekjoon/blob/main/01-Bronze/5/10430.java)|
-|28|10869|사칙연산|5|[링크](https://www.acmicpc.net/problem/10869)|[링크](https://github.com/mnpine12/Baekjoon/blob/main/01-Bronze/5/10869.java)|
-|29|10998|A×B|5|[링크](https://www.acmicpc.net/problem/10998)|[링크](https://github.com/mnpine12/Baekjoon/tree/main/01-Bronze/5/10998.java)|
+|28|10718|We love kriii|5|[링크](https://www.acmicpc.net/problem/10718)|[링크](https://github.com/mnpine12/Baekjoon/tree/main/01-Bronze/5/10718.java)|
+|29|10869|사칙연산|5|[링크](https://www.acmicpc.net/problem/10869)|[링크](https://github.com/mnpine12/Baekjoon/blob/main/01-Bronze/5/10869.java)|
+|30|10998|A×B|5|[링크](https://www.acmicpc.net/problem/10998)|[링크](https://github.com/mnpine12/Baekjoon/tree/main/01-Bronze/5/10998.java)|
