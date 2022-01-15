@@ -3,8 +3,13 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         int n = sc.nextInt();
+
+        System.out.println(hanSu(n));
+        sc.close();
+    }
+
+    public static int hanSu(int n){
         int cnt = 0;
         int[] arr = new int[3];
 
@@ -23,7 +28,6 @@ public class Main {
                 }
             }
         }
-        System.out.println(cnt);
-        sc.close();
+        return cnt;
     }
 }
